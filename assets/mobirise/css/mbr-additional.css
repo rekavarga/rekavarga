@@ -1402,7 +1402,7 @@ body {
 }
 .cid-qtlotsdcTa {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #f9f9f9;
 }
 .cid-qtlotsdcTa h2 {
@@ -1473,8 +1473,8 @@ body {
   }
 }
 .cid-qtoPUorm0Q {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 30px;
   background-color: #f9f9f9;
 }
 .cid-qtoPUorm0Q .mbr-text {
