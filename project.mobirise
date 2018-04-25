@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-25_2115",
-    "currentPage": "dogyoga.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1176,7 +1176,7 @@
         }
       ]
     },
-    "dogyoga.html": {
+    "page1.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
         "title": "DogYoga",
